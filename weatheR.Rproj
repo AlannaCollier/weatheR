@@ -1,8 +1,14 @@
 Version: 1.0
+<<<<<<< HEAD
 ProjectId: c13c4ae0-57c5-4ef2-943a-aade42318aff
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
+=======
+
+RestoreWorkspace: No
+SaveWorkspace: No
+>>>>>>> 48a4358e16cb88372f91a1a4e1698e138840b645
 AlwaysSaveHistory: Default
 
 EnableCodeIndexing: Yes
@@ -15,3 +21,12 @@ LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
+<<<<<<< HEAD
+=======
+LineEndingConversion: Posix
+
+BuildType: Package
+PackageUseDevtools: Yes
+PackageInstallArgs: --no-multiarch --with-keep.source
+PackageRoxygenize: rd,collate,namespace
+>>>>>>> 48a4358e16cb88372f91a1a4e1698e138840b645
