@@ -3,6 +3,7 @@
 #' This function loads the Dublin Airport weather dataset.
 #' @return A data frame containing the metric averages for Dublin Airport.
 #' @export
+#'
 
 load_dublinairport <- function() {
 
